@@ -19,7 +19,7 @@ tags:
 
 Άσκηση: Τροποποιήστε το παράδειγμα χρησιμοποιώντας φίλτρα εικόνας από το προηγούμενο παράδειγμα. Συνδυάστε τα φίλτρα εικόνας και τη χρήση zoom κατά τη λειτουργία hover (κίνηση του ποντικιού πάνω από την εικόνα).
 
-<p class="codepen" data-height="265" data-theme-id="light" data-default-tab="css,result" data-user="irozg" data-slug-hash="RwRxmOJ" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="ασκηση 1">
+<p class="codepen" data-height="539" data-theme-id="dark" data-default-tab="css,result" data-user="irozg" data-slug-hash="RwRxmOJ" style="height: 539px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="ασκηση 1">
   <span>See the Pen <a href="https://codepen.io/irozg/pen/RwRxmOJ">
   ασκηση 1</a> by Iro Zagota (<a href="https://codepen.io/irozg">@irozg</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
