@@ -17,5 +17,9 @@ tags:
 
 Άσκηση: Πειραματιστείτε με το παράδειγμα προσθέτοντας περισσότερα CSS media queries και αλλάζοντας το χρώμα του παραθούρου. Στη συνέχεια δοκιμάστε να εφαρμόσετε CSS media queries στο μέγεθος της γραμματοσειράς ώστε να απεικονίζεται σωστά σε όλα τα μεγέθη παραθύρων.
 
-
-[codepen_embed height="265" theme_id="dark" slug_hash="abZxpqp" default_tab="css,result" user="irozg" preview="true" data-preview="true"]See the Pen <a href='https://codepen.io/irozg/pen/abZxpqp'>Ασκηση 2</a> by Iro Zagota (<a href='https://codepen.io/irozg'>@irozg</a>) on <a href='https://codepen.io'>CodePen</a>.[/codepen_embed]
+<p class="codepen" data-height="265" data-theme-id="dark" data-default-tab="css,result" data-user="irozg" data-slug-hash="abZxpqp" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Ασκηση 2">
+  <span>See the Pen <a href="https://codepen.io/irozg/pen/abZxpqp">
+  Ασκηση 2</a> by Iro Zagota (<a href="https://codepen.io/irozg">@irozg</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+<script async src="https://static.codepen.io/assets/embed/ei.js"></script>
