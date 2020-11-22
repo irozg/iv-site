@@ -4,6 +4,7 @@ title: Αρχέτυπα
 caption: Διαφάνειες για το κεφάλαιο Αρχέτυπα
 image_url: /images/xerox-star-desktop.png
 slides:
+  - eniac
   - ibm2471
   - xerox-star-desktop
   - engelbart-mouse
