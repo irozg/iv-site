@@ -9,6 +9,7 @@ events:
   - transistor-radio
   - pdp1-mini
   - ibm2471
+  - brlescII
   - sketchpad
   - nls
   - pdp11-tty-unix
