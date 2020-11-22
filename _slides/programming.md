@@ -7,6 +7,7 @@ slides:
   - teletype
   - card
   - sketchpad
+  - brlescI-ii
   - joss
   - dartmouth-basic 
   - alto
