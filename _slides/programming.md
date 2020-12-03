@@ -5,8 +5,10 @@ image_url: /images/smalltalk.jpg
 caption: Οι γλώσσες προγραμματισμού θεωρούνται μια περιοχή για τους ειδικούς και τους κατασκευαστές των συστημάτων, αλλά στην πράξη ο προγραμματιστής είναι απλά ένας ακόμη χρήστης, με περισσότερες γνώσεις, δεξιότητες, και δυνατότητες.
 slides:
   - teletype
+  - eniac
   - card
   - sketchpad
+  - gracehopper
   - joss
   - dartmouth-basic 
   - alto
