@@ -2,6 +2,7 @@
 	path = images
     url = https://github.com/irozg/images.git
     branch = master
+    subprojectCommitOid = 766c86a0
 [submodule "_gallery"]
 	path = _gallery
 	url = https://github.com/irozg/_gallery.git
