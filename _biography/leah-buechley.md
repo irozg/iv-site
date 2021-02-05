@@ -1,7 +1,7 @@
 ---
 author: IroZa
 title: "Leah Buechley"
-image_url: /images/weiser-profile.jpg
+image_url: 
 caption: "H Leah Buechley είναι πρωτοπόρος στούς ηλεκτρονικούς μικροεπεξεργαστές που συνδιάζονται με χαρτί και ύφασμα. Είναι εφευρέτρια του LilyPad Arduino, μία σειράς ηλεκτρονικών μικροεπεξεργαστών που ράβονται σε υφάσματα."
 categories:
   - Βιογραφία
